@@ -34,22 +34,34 @@ In this section, you'll create a Python script to visualize the weather of 500+ 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
+![](output_data/City%20Latitude%20vs%20Max%20Temperature.png)
 * Humidity (%) vs. Latitude
+![](output_data/City%20Latitude%20vs%20Humidity.png)
 * Cloudiness (%) vs. Latitude
+![](output_data/City%20Latitude%20vs%20Cloudiness.png)
 * Wind Speed (mph) vs. Latitude
+![](output_data/City%20Latitude%20vs%20Wind%20Speed%20(mph).png)
 
 After each plot, add a sentence or two explaining what the code is analyzing.
 
 The second requirement is to compute the linear regression for each relationship. This time, separate the plots into Northern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
 * Northern Hemisphere - Temperature (F) vs. Latitude
+![](output_data/nh_temp_vs_lat_regression.png)
 * Southern Hemisphere - Temperature (F) vs. Latitude
+![](output_data/sh_temp_vs_lat_regression.png)
 * Northern Hemisphere - Humidity (%) vs. Latitude
+![](output_data/nh_humidity_vs_lat_regression.png)
 * Southern Hemisphere - Humidity (%) vs. Latitude
+![](output_data/sh_humidity_vs_lat_regression.png)
 * Northern Hemisphere - Cloudiness (%) vs. Latitude
+![](output_data/nh_cloudiness_vs_lat_regression.png)
 * Southern Hemisphere - Cloudiness (%) vs. Latitude
+![](output_data/sh_cloudiness_vs_lat_regression.png)
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
+![](output_data/nh_wind_vs_lat_regression.png)
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
+![](output_data/sh_wind_vs_lat_regression.png)
 
 After each pair of plots, explain what the linear regression is modeling. For example, describe any relationships that you notice and any other findings you may have.
 
