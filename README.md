@@ -1,4 +1,4 @@
-#Please click on README.md file to see all the plots. For some reason, the main readme does not show all the plots.
+# Please click on README.md file to see all the plots. For some reason, the main readme does not show all the plots.
 # Unit 6 Homework: What's the Weather Like?
 
 ## Background
