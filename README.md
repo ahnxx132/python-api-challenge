@@ -9,25 +9,6 @@ Now, we know what you may be thinking: _"Duh. It gets hotter ..."_
 
 But, if pressed, how would you **prove** it?
 
-### Before You Begin
-
-1. Create a new repository for this project called `python-api-challenge` and be sure to select a `.gitignore` template for Python.  **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Use Visual Studio Code to open this new repo and then edit the `.gitignore` file to add the following the top of the file. 
-
-```python
-# Adding file to hold API keys. 
-api_keys.py
-```
-
-Note: the entry above can really appear anywhere in your `.gitignore` file, but directing everyone to put it at the top of the file makes these instructions easier to follow. Also note that if you choose to use a different file to hold your api keys, for example `config.py`, then you'll have to add this different filename to your `.gitignore` file (instead of what's listed above). 
-
-4. Create new files called `WeatherPy.ipynb` and `VacationPy.ipynb`. These will be the main scripts to run for each analysis.
-
-5. Use Git to `add`, `commit`, and `push` the above changes to GitHub.
-
 ## Part 1: WeatherPy
 
 In this section, you'll create a Python script to visualize the weather of 500+ cities of varying distance from the equator. To do so, you'll use a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and your problem-solving skills to create a representative model of weather across cities.
